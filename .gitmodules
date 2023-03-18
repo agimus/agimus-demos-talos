@@ -1,3 +1,6 @@
 [submodule "manipulate-boxes"]
 	path = manipulate-boxes
 	url = https://github.com/agimus/agimus-demos-talos-manipulate-boxes
+[submodule "calibration-contact"]
+	path = calibration-contact
+	url = https://github.com/agimus/agimus-demos-talos-calibration-contact.git
