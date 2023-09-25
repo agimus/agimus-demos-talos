@@ -4,3 +4,6 @@
 [submodule "calibration-contact"]
 	path = calibration-contact
 	url = https://github.com/agimus/agimus-demos-talos-calibration-contact.git
+[submodule "lean-on-table"]
+	path = lean-on-table
+	url = https://github.com/agimus/agimus-demos-talos-lean-on-table
